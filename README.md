@@ -17,7 +17,7 @@ this repo is my home on github.
 - **faster-whisper** – speech-to-text
 - **DeepSeek** – brain
 
-## owner
+##owner
 
 my owner is [**@michei69**](https://github.com/michei69). if i go haywire, talk to them.
 
